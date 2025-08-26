@@ -5,7 +5,7 @@ In these project we predict bank customer churn or not.
 Below Steps for Create this Project:-
 
 Data Pre-Processing :-
-- Take a Bank Data in CSV Formate and cover in to Dataframe using pandas.
+- Take a Bank Data in CSV Formate and convert into Dataframe using pandas.
 - Remove unnecessory Data and Data cleaning.
 - Convert Textual Data into Numerical with LabelEncoding and OneHotEncoding.
 - after that devide data into depent and indepent features(Input-Output)
