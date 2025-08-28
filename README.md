@@ -1,7 +1,7 @@
-# sql-customer-churn-prediction-python-D=deep_learning-roject :-
+# sql-customer-churn-prediction-python-deep_learning-project :-
 In these project we predict bank customer churn or not.
 
-Check out Finel Prediction in Deployment [here](https://annclassificationchurn-kudho3ex34vh9fee757bsz.streamlit.app/).
+[Click here for Check out Finel Prediction in Deployment](https://annclassificationchurn-kudho3ex34vh9fee757bsz.streamlit.app/).
 
 ## Below Steps for Create this Project:-
 ## Data Pre-Processing :-
@@ -24,3 +24,7 @@ Check out Finel Prediction in Deployment [here](https://annclassificationchurn-k
 - Apply Pre-Processing on Prediction Data.
 - Load Model file and Perform Prediction.
 - Here we Predict, If Prediction Prob above 0.5 then Customer like to Churn and Below 0.5 then Not Churn....
+
+**Dhaval Panchal**
+Email: dhavalpanchal3009@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dhavalpanchal3009/)
