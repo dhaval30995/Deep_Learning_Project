@@ -1,4 +1,4 @@
-# sql-customer-churn-prediction-python-deep_learning-project :-
+# Customer Churn Prediction
 In these project we predict bank customer churn or not.
 
 [Click here for Check out Finel Prediction in Deployment](https://annclassificationchurn-kudho3ex34vh9fee757bsz.streamlit.app/).
